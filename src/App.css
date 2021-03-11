@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* sidebarData.js */
+.sidebar{
+    background-color: #222021;
+    transition: 850ms;
+}
+
+/* styling for small texts */
+.small-text{
+    font-size: 10px;
+}
+
+.smaller-text{
+    font-size: 6px;
+}
+
+/* Modules.js */
+.progress-bar{
+    position: absolute; 
+    padding-left: 3.5rem;
+    padding-top: 4px;
+}
+.height {
+    height: 1px;
+}
